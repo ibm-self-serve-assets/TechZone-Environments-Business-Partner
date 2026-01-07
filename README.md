@@ -22,7 +22,7 @@ Technology Zone is the single destination for our go-to-market teams and IBM bus
 |-------------|------------|-------|----------|
 | [watsonx.ai/.governance SaaS](https://techzone.ibm.com/my/reservations/create/64b8490a564e190017b8f4eb) | ![image](images/xai-saas.png) | Develop powerful AI solutions with an integrated collaborative studio and industry-standard APIs and SDKs. Accelerate responsibility, transparency and explainability in your data and AI workflows. | watsonx ai, governance (shared, no goernance console), db2, cloud object storage, Studio, Knowledge Catalog (shared)|
 | [watsonx.ai/.gov Dedicated (Account Vending)](https://techzone.ibm.com/my/reservations/create/687ec5924c73567a1c4f1341) | ![image](images/xai-dedicated.png) | Watsonx.gov on a dedicated cloud account. Initial openscale, use-case, and inventory setup will be required for each reservation. | watsonx.governance (no goernance console), watsonx Studio, watsonx.ai runtime, Cloud Object Storage |
-| [watsonx.ai Model Gateway](https://techzone.ibm.com/my/reservations/create/686d973042dd546e27332254) | ![image](images/model-gateway.png) | watsonx AI [Model Gateway](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-model-gateway.html?context=wx&audience=wdp) Preview in ca-tor region only. | WS, COS, DB2, WML, wxGov|
+| [watsonx.ai Model Gateway](https://techzone.ibm.com/my/reservations/create/686d973042dd546e27332254) | ![image](images/model-gateway.png) | watsonx AI [Model Gateway](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-model-gateway.html?context=wx&audience=wdp) GA. | WS, COS, DB2, WML, wxGov|
 
 ## watsonx.data & data stores
 
