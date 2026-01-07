@@ -14,7 +14,7 @@ Technology Zone is the single destination for our go-to-market teams and IBM bus
 
 | Environment | Screenshot | Value | Includes |
 |-------------|------------|-------|----------|
-| [IBM Bob Early Access for Client]([https://techzone.ibm.com/my/reservations/create/64b8490a564e190017b8f4eb](https://forms.microsoft.com/pages/responsepage.aspx?id=V3D2_MlQ1EqY8__KZK3Z6cDXfNM5tu1HsFoldQxfyW9URVg4RkxTNFFFQ1FKNkozVVI0WEw1S0FUQi4u&route=shorturl)) | ![image](images/309.jpg) | Request form to get early access to IBM Bob for Business Partners and Clients  | IBM Bob Early Access|
+| [IBM Bob Early Access for Client](https://techzone.ibm.com/my/reservations/create/64b8490a564e190017b8f4eb](https://forms.microsoft.com/pages/responsepage.aspx?id=V3D2_MlQ1EqY8__KZK3Z6cDXfNM5tu1HsFoldQxfyW9URVg4RkxTNFFFQ1FKNkozVVI0WEw1S0FUQi4u&route=shorturl)) | ![image](images/309.jpg) | Request form to get early access to IBM Bob for Business Partners and Clients  | IBM Bob Early Access|
 
 ## watsonx.ai & watsonx.governance
 
