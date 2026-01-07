@@ -10,6 +10,11 @@ Certified Base Images: We have a list in TechZone which are the most well-known 
 
 Technology Zone is the single destination for our go-to-market teams and IBM business partners ecosystem to access on-demand and live environments to learn, build, show, and share the value of IBM solutions. Additionally, they can extend our certified base images and further customize them for test, education, demonstration, and pilot activities.
 
+## IBM Bob
+
+| Environment | Screenshot | Value | Includes |
+|-------------|------------|-------|----------|
+| [IBM Bob Early Access for Client]([https://techzone.ibm.com/my/reservations/create/64b8490a564e190017b8f4eb](https://forms.microsoft.com/pages/responsepage.aspx?id=V3D2_MlQ1EqY8__KZK3Z6cDXfNM5tu1HsFoldQxfyW9URVg4RkxTNFFFQ1FKNkozVVI0WEw1S0FUQi4u&route=shorturl)) | ![image](images/xai-saas.png) | Request form to get early access to IBM Bob for Business Partners and Clients  | IBM Bob Early Access|
 
 ## watsonx.ai & watsonx.governance
 
